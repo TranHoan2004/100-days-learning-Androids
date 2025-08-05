@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Try it</string>
+    <string name="login_here">Login here</string>
+    <string name="email_title">Email:</string>
+    <string name="password_title">Password:</string>
+    <string name="login_button">Login</string>
+    <string name="remember_me">Remember me</string>
+    <string name="or">Or</string>
+</resources>
