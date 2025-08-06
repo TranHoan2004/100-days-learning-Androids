@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVPArchitecture</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_title">LOGIN</string>
+    <string name="login_success">Login successfully</string>
+    <string name="login_failed">Email or Password invalid</string>
+</resources>
